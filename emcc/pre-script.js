@@ -1,0 +1,1 @@
+Module.locateFile = (s) => 'src/wasm/' + s;
